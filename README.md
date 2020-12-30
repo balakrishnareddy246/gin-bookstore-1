@@ -1,1 +1,1 @@
-# gin-bookstore-1
+# gin-bookstore-gorm
